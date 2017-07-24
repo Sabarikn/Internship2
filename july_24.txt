@@ -1,0 +1,2 @@
+Completed week2 of erlang functional programming and now working on the assignment week2
+
