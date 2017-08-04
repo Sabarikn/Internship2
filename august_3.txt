@@ -1,0 +1,2 @@
+started week 3 erlang functional programming
+
