@@ -1,0 +1,4 @@
+Continuing reading sicp textbook.
+watching videos you have sent on python 
+also read implementation of lisp in python lis.py
+
