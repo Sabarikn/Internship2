@@ -1,0 +1,2 @@
+Sir iam doing django leaderboard app its a bit tough especially understanding its authentication mechanism and iam working on it
+and tommorow i will not be working because i will go to coimbatore for my check up to doctor
